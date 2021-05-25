@@ -1,5 +1,5 @@
 {
-  "name": "node.js-register-login-app",
+  "name": "ferticare-app",
   "version": "1.0.0",
   "description": "This is a user login and registration app using Node.js, Express, Mongoose and express-sessions. :+1:",
   "main": "server.js",
@@ -17,12 +17,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FSojitra/Node.js-Register-Login-App.git"
+    "url": "git+https://github.com/jayesh-baibhav/ferticare-app"
   },
-  "author": "foram sojitra",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FSojitra/Node.js-Register-Login-App/issues"
-  },
-  "homepage": "https://github.com/FSojitra/Node.js-Register-Login-App#readme"
+  "author": "Jayesh",
+  "license": "ISC"
 }
