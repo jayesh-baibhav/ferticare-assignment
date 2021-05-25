@@ -1,0 +1,24 @@
+body{
+	text-align: center !important;
+	background-color: rgb(255, 255, 240);
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+#LangTable{
+    margin-bottom: 15px;
+}
+.form-card{
+    background-color: #d3d3d3;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
