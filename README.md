@@ -12,13 +12,14 @@ These instructions will get you a copy of the project up and running on your loc
 You need to have installed Node.js, NPM and MongoDB in your System.
 
 ### Installing
+run the below command in root directory; it'll install all necessary package and modules!
 ```
 npm install
 ```
 
 ### To Run
 ```
-nodemon server.js
+npm start
 ```
 
 Code is Running on 
